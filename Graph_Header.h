@@ -1,6 +1,0 @@
-#ifndef GRAPH_HEADER_H_INCLUDED
-#define GRAPH_HEADER_H_INCLUDED
-
-
-// hahaha
-#endif // GRAPH_HEADER_H_INCLUDED
